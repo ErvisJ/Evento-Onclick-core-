@@ -1,0 +1,86 @@
+.sustantivo{
+    font-family: cursive;
+}
+.navbar{
+    background-color: rgb(171, 165, 165);
+    display: flex;
+    justify-content: space-between;
+    margin-top: -10px;
+}
+
+.titulo{
+    margin: 10px;
+}
+
+.navlinks{
+    display: flex;
+    gap: 200px;
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+#busqueda{
+    width: 400px;
+}
+
+#iniciar{
+    background-color: rgb(0, 140, 255);
+    color: white;
+}
+
+/*gato atigradp*/
+
+header{
+    border: 1px solid black;
+    display:flex;
+    margin-top: 10px;
+    width: 850px;
+
+}
+.gatotigre{
+    margin: 10px;
+}
+
+.like{
+    background-color:rgb(228, 223, 151);
+    border-radius: 5px;
+}
+
+/*golden*/
+section{
+    border: 1px solid black;
+    display: flex;
+    margin-top: 10px;
+    width: 850px;
+}
+
+.golden{
+    margin: 10px;
+}
+
+/*derecha*/
+aside{
+    border: 1px solid rgb(0, 0, 0);
+    width: 300px;
+    display:inline-flex;
+    position: relative;
+    top: -442px;
+    left: 900px;
+    
+}
+
+.defibox{
+    margin: 10px;
+}
+
+#buttdef{
+    background-color: green;
+    color: white;
+    width: 200px;
+}
+
+button{
+    cursor: pointer;
+}
